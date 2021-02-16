@@ -1,0 +1,31 @@
+h1 {
+	color: rgb(8,45,110);
+	font-size: 34pt;
+	text-align: center;
+	font-family: "Times New Roman", Times;
+}
+
+h2 {
+	color: rgb(4,71,69);
+	font-size: 24pt;
+	text-align: center;
+	font-family: "Times New Roman", Times;
+}
+
+h3 {
+	font-size: 16pt;
+	text-align: center;
+	font-family: "Times New Roman", Times;
+}
+
+p {
+	color: rgb(36,28,71);
+	font-size: 12pt;
+	font-family: "Times New Roman", Times;
+	text-align: center;
+}
+
+body {
+	background-color: rgb(228,241,242);
+	img-align: center;
+}
